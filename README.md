@@ -9,3 +9,5 @@ This may not be the complete API. There may have been some endpoints I looked ov
 | Content-Type | application/x-www-form-urlencoded |
 
 ### Coming soon.. :)
+
+**I am not affiliated with Simplical Software or any of it's affiliates.**
