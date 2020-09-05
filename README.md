@@ -2,6 +2,8 @@
 ### Note
 This may not be the complete API. There may have been some endpoints I looked over on older versions of the game.
 
+Check out the `work-in-progress` branch to see the latest updates on the documentation! :D
+
 | Domain | www.simplicialsoftware.com |
 |:---|:---|
 | Path | /api/account/ |
